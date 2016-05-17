@@ -10,7 +10,4 @@ Server-Monitor
 <br />
 
 ### Demo
-1.[戳我](https://xtms.me/Mo)<br /><br />
-
-###鸣谢：
-感谢@NEO授权我使用黑洞状态监控部分前端代码。
+1.[戳我](https://tms.im/Mo)<br /><br />
